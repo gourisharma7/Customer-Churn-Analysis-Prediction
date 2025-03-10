@@ -1,8 +1,5 @@
 # Customer-Churn-Analysis-Prediction
-Customer churn analysis and prediction using SQL, Python, and Power BI to identify at-risk customers and enhance retention strategies with data-driven insights.
 
-
-About this project:
 
 The goal of this project was to analyze customer churn trends and predict potential churners using machine learning. By leveraging SQL, Python, and Power BI, I built a data pipeline that transforms raw data into meaningful insights, helping businesses proactively reduce churn.
 
