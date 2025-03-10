@@ -8,6 +8,7 @@ The goal of this project was to analyze customer churn trends and predict potent
 
 
 
+
 Implementation
 
 ETL Process: Extracted, cleaned, and transformed customer data using SQL.
@@ -15,6 +16,7 @@ ETL Process: Extracted, cleaned, and transformed customer data using SQL.
 Machine Learning: Developed a predictive model to identify at-risk customers.
 
 Power BI Dashboards: Created interactive visualizations to track churn trends and customer behavior.
+
 
 
 
