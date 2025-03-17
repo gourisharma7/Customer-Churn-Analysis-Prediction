@@ -16,8 +16,8 @@ Power BI Dashboards: Created interactive visualizations to track churn trends an
 
 
 
-
 Actionable Insights to Reduce Churn
+
 Overall Churn Rate (26.5%)
 High churn indicates dissatisfaction and competitive pressure.
 Action: Implement targeted retention offers and loyalty programs.
