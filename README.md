@@ -17,16 +17,26 @@ Power BI Dashboards: Created interactive visualizations to track churn trends an
 
 
 
-Key Metrics in the Dashboard:
+Actionable Insights to Reduce Churn
+Overall Churn Rate (26.5%)
+High churn indicates dissatisfaction and competitive pressure.
+Action: Implement targeted retention offers and loyalty programs.
 
-i) Total Customers, New Joiners, and Churn Rate
+Churn by Contract Type (Month-to-Month: 46.5%)
+Short-term contract users churn the most due to flexibility.
+Action: Offer discounts and incentives for long-term contracts.
 
-ii) Churn Breakdown by Demographics (Gender, Age, Contract Type, etc.)
+Churn by Internet Service (Fiber Optic: 41.1%)
+Fiber Optic users have the highest churn, likely due to service or pricing concerns.
+Action: Improve service reliability and introduce competitive pricing.
 
-iii) Service-based Churn Trends (Internet Type, Payment Method, etc.)
+Churn by Region & Age Group
+Higher churn among females, customers aged 30-35, and in Uttar Pradesh and Maharashtra.
+Action: Deploy region-specific marketing and improve localized support.
 
-iv) Predicted High-Risk Customers for Proactive Retention Strategies
-
+Predicted High-Risk Customers (378 Identified)
+A segment of customers is at high risk of churning.
+Action: Launch personalized retention campaigns and proactive outreach.
 
 The dashboard allows filtering by various attributes and provides a data-driven approach to customer retention.
 
