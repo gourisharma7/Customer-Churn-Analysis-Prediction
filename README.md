@@ -18,7 +18,7 @@ The goal of this project was to analyze customer churn trends and predict potent
 
 ## Actionable Insights to Reduce Churn
 
-- Overall Churn Rate (26.5%)
+Overall Churn Rate (26.5%)
  - High churn indicates dissatisfaction and competitive pressure.
  - Action: Implement targeted retention offers and loyalty programs.
 
